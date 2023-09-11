@@ -6,6 +6,6 @@
  */
 get_header();
 ?>
-content
+Este es el contenido de la pagina.
 <?php
 get_footer();
